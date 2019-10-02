@@ -21,6 +21,6 @@ Obviously, rename `new-feature` to the issue name/# you are working on.
 
 When you're done writing your feature
 1. Rebase your branch on develop
-2. Commit and push
+2. Push your branch one last time
 3. Initiate a pull request from `new-feature` to `develop`
 4. Add at least *one* reviewer.
